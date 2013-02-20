@@ -2,7 +2,7 @@ import org.codehaus.groovy.grails.commons.ConfigurationHolder
 import groovy.util.ConfigObject
 
 class CacheHeadersGrailsPlugin {
-    def version = "1.1.5"
+    def version = "1.1.5_wotif.2013.02.20"
     def grailsVersion = "1.2.0 > *"
     def dependsOn = ['controllers':'1.1 > *']
     def pluginExcludes = [
